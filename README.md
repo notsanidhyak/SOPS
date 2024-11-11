@@ -14,8 +14,9 @@ The project reads a speech file (e.g., WAV or converted OPUS file), applies the 
 > Refer to [this .txt](explanation.txt) for a detailed explanation.
 
 ## Authors
-- [Sanidhya Kumar](@notsanidhyak)
-- [Varun Vilvadrinath](@varunvilva)
+- [Sanidhya Kumar](https://github.com/notsanidhyak/)
+- [Varun Vilvadrinath](https://github.com/varunvilva/)
+- 
 ## Requirements
 
 - Python 3.x
