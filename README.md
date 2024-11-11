@@ -16,7 +16,7 @@ The project reads a speech file (e.g., WAV or converted OPUS file), applies the 
 ## Authors
 - [Sanidhya Kumar](https://github.com/notsanidhyak/)
 - [Varun Vilvadrinath](https://github.com/varunvilva/)
-- 
+
 ## Requirements
 
 - Python 3.x
